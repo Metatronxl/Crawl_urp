@@ -3,10 +3,12 @@ import urllib2
 import requests
 from bs4 import BeautifulSoup
 
-
-username = '2014141463228'
-password = '132618'
-search_user = '2014141463105'
+#your useraccount
+username = '*****'
+#your password
+password = '****'
+# the useraccount you want to search
+search_user = '****'
 
 
 headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.2) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11'}
